@@ -1,4 +1,4 @@
-# BERT-Masking-and-AI
+# BERT-Masking-and-AI-Essays
 Code for comparing and assessing the accuracy of BERT Masked Language Model on AI Generated and real essays.
 
 The identification of AI generated plagiarism remains an open problem in the field of automatic essay assessment. This code explores whether MLMs (Masked Language Models) could be used to determine whether a particular essay was AI generated or not. The main question was whether bert-base-uncased would have any descrepancy in accuracy when identifying masked words in AI generated essays and real ones.
