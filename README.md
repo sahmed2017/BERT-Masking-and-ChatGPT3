@@ -14,4 +14,4 @@ The identification of AI generated plagiarism remains an open problem in the fie
 
 As the results were very similair, BERT word masking could not be used to determine whether an essay was written through AI. 
 
-<img width="1363" alt="Screenshot 2023-06-06 at 12 28 21 AM" src="https://github.com/sahmed2017/BERT-Masking-and-AI/assets/118930981/9935291d-ce57-4c40-8eae-fcb3edb2edb3">
+<img width="1363" alt="BERT Word Masking" src="https://github.com/sahmed2017/BERT-Masking-and-AI/assets/118930981/32f6bd7d-faf5-4e8c-b8dd-f2a22d1fd460">
